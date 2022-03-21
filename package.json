@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Repositorio para practicas de JavaScript",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["JavaScript"], 
+  "author": "Yulianny Betancourt <flipsdulce@gmail.com>",
+  "license": "ISC"
+}
